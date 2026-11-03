@@ -1,4 +1,4 @@
-const CACHE = 'okinawa-trip-v1';
+const CACHE = 'okinawa-trip-v2-20261103';
 const FILES = ["./", "./index.html", "./day-2.html", "./day-3.html", "./day-4.html", "./day-5.html", "./prepare.html", "./style.css", "./app.js", "./icon.svg", "./manifest.webmanifest"];
 self.addEventListener('install', event => { event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith('okinawa-trip-') && key !== CACHE).map(key => caches.delete(key)))).then(() => self.clients.claim())); });
