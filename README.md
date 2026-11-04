@@ -13,7 +13,7 @@
 
 所有景點、餐廳與飯店均附 Google Maps 連結。11/10 只安排飯店至機場的返程交通，回程班機已確認為 08:15 起飛。
 
-2026/11/4 精簡行程並加入購物：T1 只保留 Ocean Boo! 阿古豬涮涮鍋。HUU’S COFFEE 與 Egg me time. 保留為餐飲候補；Bios 只可替代 PARCO CITY，COSTCO 只可替代瀨長島，不額外疊加景點。餐廳與交通均未代訂。
+2026/11/4 精簡行程並加入購物：阿古豬涮涮鍋安排 Ocean Boo!。HUU’S COFFEE 與 Egg me time. 保留為餐飲候補；Bios 只可替代 PARCO CITY，COSTCO 只可替代瀨長島，不額外疊加景點。餐廳與交通均未代訂。
 
 | 日期 | 主線 | 時間安排 |
 |---|---|---|
